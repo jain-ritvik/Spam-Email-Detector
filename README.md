@@ -20,7 +20,7 @@ To explore and visualize a dataset of emails labeled as **spam** or **ham**, and
 
 ### 1. 📋 Spam vs Ham Count (Bar Chart)
 
-![Bar Chart](bar_chart.png)
+![Bar Chart](bar-graph.png)
 
 > Green: Ham emails, Red: Spam emails  
 > Helps visualize the balance between classes.
